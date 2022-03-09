@@ -1,0 +1,26 @@
+.img-position {
+    position: relative;
+    left: 35%;
+}
+
+.td-css {
+    background-color: #EEEEEE;
+}
+
+.input-width {
+    width: 300px;
+    border: 1px solid black;
+}
+
+.alt-sol {
+    background-color: #7EE5DA;
+    width: 37%;
+}
+
+.alt-orta {
+    background-color: #70CCC2;
+}
+
+.alt-sag {
+    background-color: #62B3AA;
+}
